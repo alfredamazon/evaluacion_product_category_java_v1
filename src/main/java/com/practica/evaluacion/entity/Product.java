@@ -1,5 +1,5 @@
 package com.practica.evaluacion.entity;
-
+ // va aqui exactoooooo...
 
 @entity
 @Table(name="products")
@@ -13,7 +13,7 @@ private BigDecimal price;
 private String sku;
 @ManyToOne
 private Category Category;
-
+ //ya no tengo getters ni setters ...
 
 }
 
