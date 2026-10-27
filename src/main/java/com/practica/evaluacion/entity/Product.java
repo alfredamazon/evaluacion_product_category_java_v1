@@ -14,7 +14,7 @@ private String sku;
 @ManyToOne
 private Category Category;
  //ya no tengo getters ni setters ...
-
+// duracion del examen 30 minutos ..
 }
 
 
